@@ -3,7 +3,7 @@ class Solution {
         String str = String.valueOf(x); //to Transformation to String
         String reverse = new StringBuilder(str).reverse().toString(); // to reverse String
 
-        if(str.equals(reverse) == true)
+        if(str.equals(reverse) )
             return true;
         else
             return false;
