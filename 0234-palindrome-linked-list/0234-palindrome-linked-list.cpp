@@ -27,7 +27,6 @@ public:
                 stack.pop();
             } else{
                 return false;
-                continue;
             }
             temp = temp->next;
         }
