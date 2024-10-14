@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/abdelrhman892/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abdelrhman892/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abdelrhman892/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
